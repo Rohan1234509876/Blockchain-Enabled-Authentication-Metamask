@@ -1,3 +1,8 @@
+This is a blockchain-enabled authentication project developed using NextJS, which allows user to sign up and login using Metamask.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
